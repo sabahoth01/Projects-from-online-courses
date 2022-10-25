@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "com.web.webh2.apiUrl",
+      "type": "java.lang.String",
+      "description": "Description for com.web.webh2.apiUrl."
+    }
+  ] }
